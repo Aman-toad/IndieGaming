@@ -9,7 +9,7 @@ It is designed to replicate the feel of a premium AAA game landing experience di
 
 ## 🕹️ Live Demo
 
-🔗 **[View the Experience]([https://dash-liart-five.vercel.app/])**
+🔗 **[View the Experience](https://dash-liart-five.vercel.app/)**
 
 ---
 
